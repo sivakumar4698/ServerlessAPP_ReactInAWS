@@ -2,7 +2,7 @@
 
 ### Application Link 
 
-https://master.d3rjnlcts1sc0f.amplifyapp.com/#home (Wesite content is still in progress)
+https://master.d3rjnlcts1sc0f.amplifyapp.com/#home (Website content is still in progress)
 
 
 ### Application features developed so far
