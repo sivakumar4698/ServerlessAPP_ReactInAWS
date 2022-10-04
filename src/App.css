@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+.font {
+  font-family: 'Square Peg', cursive;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.fontsub {
+  font-family: 'Square Peg', cursive;
+  text-align: center;
+  font-size: 30px;
+}
+
+.text {
+  font-family: 'Satisfy', cursive;
+  text-align: center;
+  font-size: 20px;
+  padding: 50px;
+ 
+}
+
+.image {
+  width : 300px;
+  height: 200px
+}
+
+.cards {
+  font-family: 'Satisfy', cursive;
+  text-align: center;
+  padding: 50px
+}
+
+
+

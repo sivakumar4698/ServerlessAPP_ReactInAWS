@@ -1,0 +1,31 @@
+[
+    {
+        "qoute":"ok",
+        "explanation": "Welcome",
+        "Mythoughts":"will update"
+    },
+    {
+        "qoute":"not okay",
+        "explanation": " not Welcome",
+        "Mythoughts":"  update"
+
+    },
+    {
+        "qoute":"cheers",
+        "explanation": "how are u",
+        "Mythoughts":"No problem"
+
+    },
+    {
+        "qoute":"see you",
+        "explanation": "take care",
+        "Mythoughts":"bye"
+
+    },
+    {
+        "qoute":"bonjour",
+        "explanation": "senorita",
+        "Mythoughts":"i dont know"
+
+    }
+]

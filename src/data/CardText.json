@@ -1,0 +1,25 @@
+[
+    {
+        "title":"Peace of Mind",
+        "explanation": "Inner peace builds, inner strength",
+        "button": "explore.."
+    },
+    {
+        "qoute":"Plan your day",
+        "explanation": "Dont get lost, keep yourself occupied.",
+        "button": "explore.."
+
+    },
+    {
+        "qoute":"Adventure",
+        "explanation": "Explore the world.",
+        "button": "explore.."
+
+    },
+    {
+        "qoute":"Things I learned from a business book",
+        "explanation": "Im sharing the insights.",
+        "button": "explore.."
+
+    }
+]
