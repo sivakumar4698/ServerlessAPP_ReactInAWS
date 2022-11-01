@@ -1,9 +1,5 @@
 ## Serverless Application using React and AWS
 
-### Application Link 
-
-https://master.d3rjnlcts1sc0f.amplifyapp.com/#home (Website content is still in progress)
-
 
 ### Application features developed so far
 
@@ -16,8 +12,3 @@ https://master.d3rjnlcts1sc0f.amplifyapp.com/#home (Website content is still in 
 
 
 The Above features have been implemented.
-
-### In Progress
-
-- creating more pages
-- Adding data into DynamoDB table and extracting the data using Lambda for upcoming pages
